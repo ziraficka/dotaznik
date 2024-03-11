@@ -4,7 +4,7 @@ html  {
   -ms-text-size-adjust:100%;
   -webkit-text-size-adjust:100%;
   overflow-x:hidden;
-  touch-action: none;
+  /*touch-action: none;*/
   background-color: #e5f2fc;
 }
 
